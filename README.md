@@ -1,2 +1,4 @@
 # cti110
-buckaleg6611@student.faytechcc.edu
+Created For P1LAB1
+Buckalew
+6/12/2022
